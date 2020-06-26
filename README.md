@@ -1,4 +1,4 @@
-# Module 3 Project - Pneumonia Detection
+# Module 4 Project - Pneumonia Detection
 
 ![](/images/Pneumonia.jpg)
 
@@ -12,15 +12,15 @@ The WHO estimates that over 4 million premature deaths occur annually from house
 This project is about diagnosing pneumonia from XRay images of lungs of a person using Neural Networks.
 
 __Dataset:__    
-Train folder:  
--Normal Images - 1341  
--Pneumonia Images - 3875  
-Val folder:  
--Normal Images - 8  
--Pneumonia Images - 8  
-Test folder:  
--Normal Images - 234  
--Pneumonia Images - 390
+__Train folder:__  
+Normal Images - 1341  
+Pneumonia Images - 3875  
+__Val folder:__  
+Normal Images - 8  
+Pneumonia Images - 8  
+__Test folder:__   
+Normal Images - 234  
+Pneumonia Images - 390
 
 ### Findings:
 
