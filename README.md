@@ -11,11 +11,11 @@ The WHO estimates that over 4 million premature deaths occur annually from house
 
 Dataset:  
 Train folder:
--1341 normal
--3875 pneumonia
+-Normal Images - 1341  
+-Pneumonia Images - 3875  
 Val folder:
--8 normal
--8 pneumonia
+-Normal Images - 8  
+-Pneumonia Images - 8
 Test folder:
--234 normal
--390 pneumonia
+-Normal Images - 234  
+-Pneumonia Images - 390
