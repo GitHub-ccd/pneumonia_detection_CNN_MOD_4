@@ -1,6 +1,6 @@
 # Module 3 Project - Pneumonia Detection
 
-![]images/Pneumonia.jpg
+![](/images/Pneumonia.jpg)
 
 ## Introduction  
 Pneumonia is an infection that inflames air sacs in one or both lungs, which may fill with fluid.
@@ -26,7 +26,7 @@ Test folder:
 
 Confusion Matrix for our Test Set-
 
-![]images/Confusion_matrix.png
+![](/images/Confusion_matrix.png)
 
 __For our Test set :__  
 TEST METRICS  
