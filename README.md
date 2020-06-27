@@ -45,7 +45,8 @@ Base|Model|0.27|0.94|0.89|0.73
 Improved Model|0.21|0.92|0.29|0.89
 
 
-Confusion Matrix for our Test Set-
+
+__Confusion Matrix for our Test Set-__
 
 ![](/images/Confusion_matrix.png)
 
